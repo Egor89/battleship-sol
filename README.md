@@ -2,7 +2,7 @@
 
 Classic Battleship game reimagined for Web3 on Solana blockchain.
 
-![Battleship Sol Banner](./assets/battleship_banner 1 (1).png)
+![Battleship Sol Banner](https://raw.githubusercontent.com/Egor89/battleship-sol/main/assets/banner.png)
 
 ## 🎮 Features
 
