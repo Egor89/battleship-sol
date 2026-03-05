@@ -48,7 +48,7 @@ Available on [Solana dApp Store](https://dapp-store.solanamobile.com) for Solana
 - Solana Seeker device (or Android emulator)
 
 ### Treasury
-Donations support: `fNDEzKRVLNJrbVvqAsVNgoLFQerMqfmiqso88zk1tmy`
+Donations support: `HPnjsL4nFyxF3E82REjb24BxMiw1UsD3rpdm4mUJ5jVV`
 
 ## 📄 Legal
 
@@ -61,7 +61,7 @@ Built by Egor for the Solana Mobile ecosystem.
 
 ## 📞 Support
 
-For issues or questions: HPnjsL4nFyxF3E82REjb24BxMiw1UsD3rpdm4mUJ5jVV
+For issues or questions: formeee89@gmail.com
 
 ---
 
