@@ -85,8 +85,8 @@ If you have questions about how blockchain data works, please contact us.
 ## Contact Us
 
 For privacy questions or concerns:
-- **Email:** your-email@example.com
-- **GitHub:** https://github.com/yourusername/battleship-sol
+- **Email:** formeee89@gmail.com
+- **GitHub:** https://github.com/Egor89/battleship-sol
 
 ## Jurisdiction
 
